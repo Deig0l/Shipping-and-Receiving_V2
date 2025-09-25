@@ -2,6 +2,6 @@
 
 Este es un proyecto de [Phinia](https://www.phinia.com/) utilizando NextJS y congestionado con T3 Stack.
 
-## Desarrollado por Juan c:
+## Desarrollado por: Juan c: y Diego :b
 
 

@@ -60,7 +60,6 @@ export default async function Page() {
               >
                 <span >Imports Table</span>{" "}
               </Link>
-
             </CardContent>
           </Card>
         </div>

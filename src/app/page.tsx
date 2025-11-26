@@ -30,7 +30,7 @@ export default async function HomePage() {
             <a href="https://phinia.com" className="text-red-500">
               Phinia
             </a>
-              , desarrollado por Juan c:
+              , desarrollado por Juan c: MQM
           </p>
           <SignIn />
         </div>

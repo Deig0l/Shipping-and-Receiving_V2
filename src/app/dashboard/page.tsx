@@ -17,7 +17,7 @@ export default async function Page() {
     const donutData = await getDonutShart();
     const areaData = await getAreaShart();
     const barData = await getBarChart();
-    let userName = session?.user?.name || "user";
+    const userName = session?.user?.name || "user";
      // Get last two words of the name -> gets only first and second name
     //userName = userName.split(" ").splice(-2).join(" ");
 

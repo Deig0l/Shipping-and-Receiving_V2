@@ -56,7 +56,7 @@ export default function TopNav() {
                         <span>Import</span>
                     </Link>
                     <Link
-                        href="/dashboard/profile"
+                        href="/dashboard/mps"
                         className={clsx(
                             "text-black dark:text-black border-b-2 mx-1.5 sm:mx-6",
                             { "border-red-500": pathname === "/dashboard/mps" },

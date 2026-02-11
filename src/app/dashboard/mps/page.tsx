@@ -6,8 +6,8 @@ export default async function Page() {
   if (!session) return redirect("/");
   
   return ( 
-    <div className="m-14 mt-16">
-        <h1>MPs Dashboard Coming Soon!</h1>     
+    <div className="dark m-14 mt-16">
+        <h1>MPS Dashboard Coming Soon!</h1>     
     </div>
   );
 }

@@ -14,7 +14,7 @@ export default async function HomePage() {
       <div className="border border-dashed border-border p-10 rounded-xl">
 
         <section>
-          <h2 className="mb-5">Componente 'Tonto'</h2>
+          <h2 className="mb-5">Componente &#39;Tonto&#39;</h2>
           <TabNavigation>
             <TabNavigationLink href="#" >Create</TabNavigationLink>
             <TabNavigationLink href="#" >Search</TabNavigationLink>
@@ -23,7 +23,7 @@ export default async function HomePage() {
         </section>
         
         <section>
-          <h2 className="mt-5 mb-5">Componente 'Inteligente'</h2>
+          <h2 className="mt-5 mb-5">Componente &#39;Inteligente&#39;</h2>
           <TabsManager />
         </section>
       </div>
